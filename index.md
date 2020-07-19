@@ -1,4 +1,4 @@
-## 欢迎访问陆章仝简历
+## 陆章仝简历
 
 ### 一. 问题
 1. 我是谁?
@@ -12,7 +12,7 @@
     - sqlserver、mysql数据库以及mongodb的nosql数据库
 3. 我以前做过什么?
     - 大学C语言单片机(stm32)等嵌入式
-    - .net core、asp.net mvc后端框架、angular前端框架，还有thinkphp、微信小程序、敏捷开发力软系统以及帆软报表数据展示
+    - .net core、asp.net mvc后端框架、angular、Bootstrap前端框架，还有thinkphp、微信小程序、敏捷开发力软系统以及帆软报表数据展示
 4. 我想做什么?
     -  有趣的、充满智慧的工作
 
