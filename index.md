@@ -1,5 +1,11 @@
 ## 欢迎来到陆章仝主页
 
+```javascript
+$(document).ready(function () {
+    alert("我已经准备好了！");
+});
+```
+
 ### 一. 问题
 1. 我是谁?
     - 本科毕业于辽宁工程技术大学
@@ -17,11 +23,8 @@
 
 ### 一. 优势
 
-```javascript
-$(document).ready(function () {
-    alert('RUNOOB');
-});
-```
+
+
     
 
 
