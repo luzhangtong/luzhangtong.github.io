@@ -1,18 +1,15 @@
 ## 欢迎来到陆章仝主页
-```flow
-st=>start: Start|past:>http://www.google.com[blank]
-e=>end: End:>http://www.google.com
-op1=>operation: My Operation|past
-op2=>operation: Stuff|current
-sub1=>subroutine: My Subroutine|invalid
-cond=>condition: Yes 
-or No?|approved:>http://www.baidu.com
-c2=>condition: Good idea|rejected
-io=>inputoutput: catch something...|request
 
-st->op1(right)->cond
-cond(yes, right)->c2
-cond(no)->sub1(left)->op1
-c2(yes)->io->e
-c2(no)->op2->e
-```　
+### Q问题
+1. 我是谁?
+    - 我是北京工作三年的C#工程师
+    - 担任过技术经理、项目经理等职务
+2. 我会什么?
+    - 我会C#、JavaScript编程语言
+    - Java、C、PHP会，但不是很精通
+    - HTML、XML标记语言
+3. 我以前做过什么?
+    - 大学C语言单片机(stm32)等嵌入式
+    - .net core、asp.net mvc后端框架、angular前端框架，还有thinkphp、微信小程序、敏捷开发第三方力软系统
+4. 我想做什么?
+    -  有趣的工作
