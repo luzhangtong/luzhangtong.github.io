@@ -27,4 +27,5 @@
 
     
 
-<script src="../index.js"></script>
+<script src="/index.js"></script>
+<!--<script src="/assets/js/scale.fix.js"></script>-->
