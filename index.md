@@ -1,9 +1,7 @@
-## 欢迎来到陆章仝主页
+## 欢迎访问陆章仝简历
 
 ```javascript
-$(document).ready(function () {
-    alert("我已经准备好了！");
-});
+$(document).ready(()=>{alert("我已经准备好了！");});
 ```
 
 ### 一. 问题
@@ -15,14 +13,15 @@ $(document).ready(function () {
     - 我会C#、JavaScript编程语言
     - Java、C、PHP会，但不是很精通
     - HTML、XML标记语言
+    - sqlserver、mysql数据库以及mongodb的nosql数据库
 3. 我以前做过什么?
     - 大学C语言单片机(stm32)等嵌入式
-    - .net core、asp.net mvc后端框架、angular前端框架，还有thinkphp、微信小程序、敏捷开发第三方力软系统
+    - .net core、asp.net mvc后端框架、angular前端框架，还有thinkphp、微信小程序、敏捷开发力软系统以及帆软报表数据展示
 4. 我想做什么?
     -  有趣的、充满智慧的工作
 
 ### 一. 优势
-
+    
 
 
     
